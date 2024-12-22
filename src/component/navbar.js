@@ -31,7 +31,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[#f4f4f4] fixed top-0 left-0 right-0 z-50 shadow-xl border-b-4 border-gray-100 h-20 flex items-center pl-4 md:pl-20">
       <div className="flex items-center space-x-4">
-        <img src={logoupi} alt="Logo" className="h-10 ml-4 md:ml-[80px]" />
+        <img src={logoupi} alt="Logo" className="h-24 ml-4 md:ml-[80px]" />
       </div>
 
       {/* Desktop Menu */}

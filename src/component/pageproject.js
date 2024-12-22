@@ -196,7 +196,7 @@ function Pageproject() {
                 className="w-40 h-40 object-contain transform transition-transform duration-500 hover:scale-110 hover:opacity-80"
               />
             </a>
-            <a href="https://www.tiga.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://kencanaenergisukses.com/" target="_blank" rel="noopener noreferrer">
               <img
                 src={tiga}
                 alt="Client 3 Logo"
@@ -210,14 +210,14 @@ function Pageproject() {
                 className="w-40 h-40 object-contain transform transition-transform duration-500 hover:scale-110 hover:opacity-80"
               />
             </a>
-            <a href="https://www.musagreen.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.ldc.com/id/id/ldc-di-indonesia/" target="_blank" rel="noopener noreferrer">
               <img
                 src={lima}
                 alt="Client 5 Logo"
                 className="w-40 h-40 object-contain transform transition-transform duration-500 hover:scale-110 hover:opacity-80"
               />
             </a>
-            <a href="https://www.enam.com/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.marinadelray.co/" target="_blank" rel="noopener noreferrer">
               <img
                 src={enam}
                 alt="Client 6 Logo"

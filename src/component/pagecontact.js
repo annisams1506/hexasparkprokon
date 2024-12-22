@@ -22,7 +22,14 @@ function Pagecontact() {
           <a href="mailto:alfatihpilarperadaban@gmail.com">
             {/* Tombol lebih lebar dengan padding horizontal yang lebih besar */}
             <button className="bg-charcoal-600 text-white px-10 py-2 font-bold hover:bg-gray-700 transition">
-              EMAIL US
+              Email Us
+            </button>
+          </a>
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          <a href="https://wa.me/+6281281232019">
+            {/* Tombol lebih lebar dengan padding horizontal yang lebih besar */}
+            <button className="bg-charcoal-600  text-white px-10 py-2 font-bold hover:bg-gray-700 transition">
+            WhatsApp
             </button>
           </a>
         </div>
